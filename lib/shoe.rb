@@ -4,7 +4,7 @@ class Shoe
     @brand = brand
     @material = "leather"
     @size = 7
-    @color = "Black"
+    @color = "red"
   end
   
   def cobble
